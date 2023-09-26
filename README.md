@@ -6,9 +6,8 @@
 - Desarrollant aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
 
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
-- 
 
-<h3 algin="left">Soc un estudiant de DAM superior, tinc 1 any de practiques en empreses utilitzan MySQL i una aplicació en la PlayStore, m'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon.</h3>
+Soc un ser que actualment esta estudiant programació en el Cicle Superior DAM del Nicolau Copernic, tinc 1 any de practiques en empreses utilitzan MySQL i una aplicació en la PlayStore, m'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
