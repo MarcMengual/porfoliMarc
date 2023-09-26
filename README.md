@@ -1,5 +1,5 @@
-<img src="github-header-image.png">
 <h1 align="center">Portafoli Marc</h1>
+<img src="github-header-image.png">
 <h3 align="center">Desenvolupador d'aplicacions multiplataforma</h3>
 
 - Estudiant Cicle Superior [DAM](https://copernic.cat/)
