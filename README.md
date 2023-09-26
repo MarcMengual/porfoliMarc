@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-
+<img src="github-header-image.png">
 <h1 align="center">Portafoli Marc</h1>
 <h3 align="center">Desenvolupador d'aplicacions multiplataforma</h3>
 
