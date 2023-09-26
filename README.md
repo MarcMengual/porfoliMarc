@@ -6,6 +6,8 @@
 - Desarrollant aplicacio Kotlin [selmeem](https://play.google.com/store/apps/details?id=cat.copernic.roomdecision.selmeem)
 
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
+____________________________________________________________________________________________________________________________________________________________
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
