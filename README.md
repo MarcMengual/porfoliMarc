@@ -7,7 +7,6 @@
 
 - Contacta amb mi: **mengualmarcgesti@gmail.com**
 - 
-<h2 algin="left">____________________________________________________________________________________________________________________________________________________________</h2>
 
 <h3 algin="left">Soc un estudiant de DAM superior, tinc 1 any de practiques en empreses utilitzan MySQL i una aplicació en la PlayStore, m'agrada la tecnologia i el mon del gaming i exploro diferents vies per poder deicarme profesionalment en aquest mon.</h3>
 
